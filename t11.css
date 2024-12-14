@@ -1,0 +1,154 @@
+/* CSS Document */
+body{
+	width:1024px;
+	height:1000px;
+	margin:auto;
+	}
+.menu{
+	width:1024px;
+	height:30px;
+	background:#300;
+}
+.menu ul{
+	margin:0px;}
+.menu ul li{
+	list-style:none;
+	}
+.menu ul li a{
+	text-decoration:none;
+	float:right;
+	color:#FFF;
+	padding:10px 10px 10px 10px;
+	}
+.menu ul li a:hover{
+	background:#F69;
+	padding:10px 10px 10px 10px;}
+.banner{
+	width:1024px;
+	height:200px;
+	background-image:url(../images/banner.jpg);
+	}
+.ct{
+	width:1024px;
+	height:730px;
+	background:#FFF;
+	}
+.l{
+	width:800px;
+	height:730px;
+	background:#FFF;
+	float:left;
+	}
+	.ltt{
+		width:800px;
+		height:130px;
+		background:#FFF;
+		}
+		.ltt ul li{
+			list-style-image:url(../../DE%20THI%20GUI%20HSSV/DE%20THI%20GUI%20HSSV/D%E1%BB%AF%20li%E1%BB%87u%20thi%E1%BA%BFt%20k%E1%BA%BF%20trang%20web/2021%2073%20T11%20Thi%E1%BA%BFt%20k%E1%BA%BF%20trang%20web%20-%20c%C3%A2u%201/image/icon.jpg);
+			}
+		.ltt ul li a{
+			text-decoration:none;
+			color:#F00;
+			}
+		.ltt ul li a:hover{
+			background:#FCF;}
+	.lt{
+		width:800px;
+		height:200px;
+		background:#FFF;
+		}
+		.lt1{
+			width:250px;
+			height:200px;
+			background:#FFF;
+			float:left;}
+		.lt2{
+			width:250px;
+			height:200px;
+			background:#FFF;
+			float:left}
+		.lt3{
+			width:250px;
+			height:200px;
+			background:#FFF;
+			float:right;}
+	.lm{
+		width:800px;
+		height:200px;
+		background:#FFF;
+		}
+		.lm1{
+			width:250px;
+			height:200px;
+			background:#FFF;
+			float:left;}
+		.lm2{
+			width:250px;
+			height:200px;
+			background:#FFF;
+			float:left}
+		.lm3{
+			width:250px;
+			height:200px;
+			background:#FFF;
+			float:right;}
+	.lb{
+		width:800px;
+		height:200px;
+		background:#FFF;
+		color:#6CF;
+				}
+				.lb1{
+			width:250px;
+			height:200px;
+			background:#FFF;
+			float:left;}
+		.lb2{
+			width:250px;
+			height:200px;
+			background:#FFF;
+			float:left}
+		.lb3{
+			width:250px;
+			height:200px;
+			background:#FFF;
+			float:right;}
+.r{
+	width:224px;
+	height:730px;
+	background:#FFF;
+	float:right;
+	}
+	.t{
+		width:224px;
+		height:365px;
+		background:#FFF;
+		}
+		.t ul li{
+			list-style-image: url(../../DE%20THI%20GUI%20HSSV/DE%20THI%20GUI%20HSSV/D%E1%BB%AF%20li%E1%BB%87u%20thi%E1%BA%BFt%20k%E1%BA%BF%20trang%20web/2021%2073%20T11%20Thi%E1%BA%BFt%20k%E1%BA%BF%20trang%20web%20-%20c%C3%A2u%201/image/icon1.jpg);
+			}
+		
+		.t ul li a{
+			text-decoration:none;
+			color:#000;
+			}
+		.t ul li a:hover{
+			background:#6FF;
+			}
+	.b{
+		width:224px;
+		height:365px;
+		background:#FFF;
+		margin:0px;
+		}
+		
+	
+.footer{
+	width:1024px;
+	height:50px;
+	background:#CF9;
+	}
+	
+
+
